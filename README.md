@@ -8,4 +8,4 @@ pip install mediapipe==0.10.9 opencv-python pyautogui numpy
 
 after succesfully downloading the packages
 
-use python gesture_mouse.py to the code
+use python gesture_mouse.py to run the code
